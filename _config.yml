@@ -23,7 +23,7 @@ repository               : "maqlin/maqlin.github.io"
 author:
   # Biographic information
   avatar           : "../assets/profile.png"
-  name             : "Qinglin Ma"
+  name             : "Qinglin Ma (马庆麟)"
   pronouns         : # example: "she/her"  
   bio              : "Hello, world"
   location         : "China, Beijing"
