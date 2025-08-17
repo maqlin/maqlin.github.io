@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /        # 允许爬取所有页面
+Sitemap: https://maqlin.github.io/sitemap.xml
