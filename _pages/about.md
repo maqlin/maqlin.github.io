@@ -12,4 +12,4 @@ I'm a fifth year graduate student from [Department of Astronomy](https://astro.t
 
 I am currently advised by [Prof. Li Cheng](http://i.astro.tsinghua.edu.cn/~cli/) from Tsinghua university and [Prof. Mo Houjun](https://people.umass.edu/hjmo/) from University of Massachusetts. 
 
-You can find my CV here: [Qinglin Ma's CV]
+You can find my CV here: [Qinglin Ma's CV](../asset/Awesome_CV.pdf)
