@@ -15,7 +15,7 @@ From November 2025 to July 2026, I visited Leiden Observatory in the Netherlands
 
 I am interested in theoretically analyzing the galaxy-halo connection. My studies focus on:
 
-- Galaxy morphology across the cosmic time (with COLIRE and FIRE-2 simulations);
+- Galaxy morphology across the cosmic time (with COLIBRE and FIRE-2 simulations);
 - Formation of ultra diffuse galaxies;
 - Halo formation and evolution, as well as its correlation with large-scale structure.
 
