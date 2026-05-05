@@ -8,13 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Qinglin Ma, a fifth year graduate student from [Department of Astronomy](https://astro.tsinghua.edu.cn), Tsinghua university. 
-My research interest includes large-scale structure, halo-galaxy connection and galaxy formation. I am currently advised by [Prof. Li Cheng](http://i.astro.tsinghua.edu.cn/~cli/) from Tsinghua university and [Prof. Mo Houjun](https://people.umass.edu/hjmo/) from University of Massachusetts. 
+Hi, my name is Qinglin Ma, I grew up in Shenzhen, Guangdong—a city where summer seems to last all year round. I completed my undergraduate studies at [School of Physics and Astronomy, Sun Yat-sen University](https://spa.sysu.edu.cn/zh-hans) from 2017 to 2021, where my passion for astronomical research was first ignited.
+Currently, I am a final graduate student from [Department of Astronomy, Tsinghua university](https://astro.tsinghua.edu.cn) since 2021. 
+I am working with [Prof. Li Cheng](http://i.astro.tsinghua.edu.cn/~cli/) from Tsinghua university and [Prof. Mo Houjun](https://people.umass.edu/hjmo/) from University of Massachusetts. 
+From November 2025 to July 2026, I visited Leiden Observatory in the Netherlands, collaborating with [Prof. Joop Schaye](https://home.strw.leidenuniv.nl/~schaye/).
 
-My core expertise lies in computational astrophysics, specifically in analyzing N-body simulations and hydrodynamical simulations (e.g. IllustrisTNG and FIRE simulations). On one hand, I'am interested in how the large-scale structure affects the halo formation, especially for the halo shape, spin and alignment. On the other hand, I am worked on how the halo secondary properties (e.g. formation time, spin) leads to different galaxy properties. 
-Complementing this, I possess skills in creating realistic mock observations from simulation outputs. Specifically, I co-developed a novel mock catalog that accounts for the 3D/2D principal axis orientations of simulated galaxies, crucial for alignment studies.
+I am interested in theoretically analyzing the galaxy-halo connection. My studies focus on:
 
-In my spare time, I like playing table tennis and badminton:)
+- Galaxy morphology across the cosmic time (with COLIRE and FIRE-2 simulations);
+- Formation of ultra diffuse galaxies;
+- Halo formation and evolution, as well as its correlation with large-scale structure.
+
+
+In my spare time, I like playing table tennis🏓️ and badminton🏸️. I have participated in the Beijing Intercollegiate Table Tennis Team Championships on multiple occasions🏆. I also enjoy hiking and city walking, finding fulfillment in capturing the beautiful moments of daily life.
 
 You can find my CV here: [Qinglin Ma's CV](../assets/Awesome_CV.pdf)
 
