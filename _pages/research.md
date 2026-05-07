@@ -18,7 +18,7 @@ Galaxies exhibit diverse morphologies ranging from bulge-dominated to disk-domin
 **Highlights**
 
 - **COLIBRE**: We identify a three-stage evolutionary path for massive galaxies, transitioning from dispersion-dominated to disk-dominated, and eventually back to dispersion-dominated states. We further decompose the physical processes at each stage, particularly during the formation and subsequent transformation of the disk (Ma et.al in prep).
-- **FIRE-2**: For Milky Way-like galaxies, we find that disk formation timing is intrinsically linked to the halo transition from rapid to slow accretion. Once in the slow-accretion regime, the deepened potential allows gas to settle and form an inner bulge followed by gradual disk growth ([Ma et.al 2025b](https://arxiv.org/pdf/2509.16138)).
+- **FIRE-2**: For Milky Way-like galaxies, we find that disk formation timing is intrinsically linked to the halo transition from rapid to slow accretion. Once in the slow-accretion regime, the deepened potential allows gas to settle and form an inner bulge followed by gradual disk growth ([Ma et.al 2025b](https://arxiv.org/abs/2509.16138)).
 
 ---
 
@@ -40,6 +40,6 @@ The Large-Scale Structure (LSS) governs the formation and evolution of dark matt
 
 **Current threads**
 
-- **Satellite lopsidedness in galaxy pairs**: Motivated by the Local Group (Milky Way–M31), we use SDSS to extend the analysis across a broad mass range and confirm satellite lopsidedness ([Guo, Ma & Li 2025](https://arxiv.org/pdf/2502.14666)). With mock catalogs, we find it is primarily driven by pair–filament alignment, which produces an excess of satellites along the pair axis ([Ma et al. 2025a](https://arxiv.org/abs/2502.14668)).
+- **Satellite lopsidedness in galaxy pairs**: Motivated by the Local Group (Milky Way–M31), we use SDSS to extend the analysis across a broad mass range and confirm satellite lopsidedness ([Guo, Ma & Li 2025](https://arxiv.org/abs/2502.14666)). With mock catalogs, we find it is primarily driven by pair–filament alignment, which produces an excess of satellites along the pair axis ([Ma et al. 2025a](https://arxiv.org/abs/2502.14668)).
 - **Environmental torques and tidal flows**: We are investigating how large-scale anisotropy exerts torques on haloes and generates tidal flows that shape secondary halo properties, ultimately producing halo assembly (secondary) bias (Ma et al. in prep).
 
