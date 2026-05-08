@@ -5,13 +5,9 @@ excerpt: "Research"
 author_profile: true
 ---
 
-## Research
 
-Below are my main research directions.
 
----
-
-### Galaxy Morphology
+## Galaxy Morphology
 
 Galaxies exhibit diverse morphologies ranging from bulge-dominated to disk-dominated systems—a classification known as the Hubble sequence. Galaxy morphology has long been recognized as one of the most fundamental properties of galaxies. With the help of JWST and ALMA, massive rotating disks have been detected at high redshifts, prompting a critical question: how does galaxy morphology evolve, and what physical processes drive these changes?
 
@@ -22,7 +18,7 @@ Galaxies exhibit diverse morphologies ranging from bulge-dominated to disk-domin
 
 ---
 
-### Ultra diffuse galaxies
+## Ultra diffuse galaxies
 
 Ultra-diffuse galaxies (UDGs) serve as extreme laboratories for testing galaxy formation and the nature of dark matter due to their low stellar densities and extended structures. Recent SDSS observations reveal a puzzle: isolated, blue UDGs show unexpectedly strong large-scale clustering, comparable to massive galaxy groups—something standard LCDM simulations (e.g. IllustrisTNG) and traditional subhalo models struggle to reproduce.
 
@@ -33,12 +29,10 @@ Linking galaxy surface brightness to this environmental angular momentum in mock
 
 ---
 
-### Dark matter haloes
+## Dark matter haloes
 
 The Large-Scale Structure (LSS) governs the formation and evolution of dark matter haloes and their resident galaxies.
 
 **Highlights**
 
 - **Satellite distribution in halo pairs**: Motivated by the Local Group (Milky Way–M31), we use SDSS to extend the analysis across a broad mass range and confirm satellite lopsidedness ([Guo, Ma & Li 2025](https://arxiv.org/abs/2502.14666)). With mock catalogs, we find it is primarily driven by pair–filament alignment, which produces an excess of satellites along the pair axis ([Ma et al. 2025a](https://arxiv.org/abs/2502.14668)).
-- **The origin of the halo assembly bias**: We are investigating how large-scale anisotropy exerts torques on haloes and generates tidal flows that shape secondary halo properties, ultimately producing halo assembly (secondary) bias (Ma et al. in prep).
-
