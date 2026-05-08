@@ -18,7 +18,7 @@ Galaxies exhibit diverse morphologies ranging from bulge-dominated to disk-domin
 
 ---
 
-## Ultra diffuse galaxies
+## Ultra Diffuse Galaxies
 
 Ultra-diffuse galaxies (UDGs) serve as extreme laboratories for testing galaxy formation and the nature of dark matter due to their low stellar densities and extended structures. Recent SDSS observations reveal a puzzle: isolated, blue UDGs show unexpectedly strong large-scale clustering, comparable to massive galaxy groups—something standard LCDM simulations (e.g. IllustrisTNG) and traditional subhalo models struggle to reproduce.
 
@@ -29,7 +29,7 @@ Linking galaxy surface brightness to this environmental angular momentum in mock
 
 ---
 
-## Dark matter haloes
+## Dark Matter Haloes and Large-scale Structure 
 
 The Large-Scale Structure (LSS) governs the formation and evolution of dark matter haloes and their resident galaxies.
 
