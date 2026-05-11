@@ -22,5 +22,5 @@ I am interested in theoretically analyzing the galaxy-halo connection. My studie
 
 In my spare time, I like playing table tennis🏓️ and badminton🏸️. I have participated in the Beijing Intercollegiate Table Tennis Team Championships on multiple occasions🏆. I also enjoy hiking and city walking, finding fulfillment in capturing the beautiful moments of daily life.
 
-You can find my Curriculum Vitae here: [Qinglin Ma's CV](../assets/MY_CV.pdf)
+You can find my Curriculum Vitae here: [Qinglin Ma's CV](../assets/My_CV.pdf)
 
