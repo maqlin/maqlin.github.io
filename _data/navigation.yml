@@ -35,5 +35,8 @@ main:
   - title: "Research"
     url: /research/
 
+  - title: "Resume"
+    url: /resume/
+
   - title: "CV"
     url: /assets/My_CV.pdf
