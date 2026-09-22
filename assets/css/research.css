@@ -117,6 +117,20 @@ html[data-theme="dark"] .page__content .research-section > h2 {
   border-radius: 4px;
 }
 
+.research-card--wide .research-card__body {
+  flex-direction: column;
+}
+
+.research-card--wide .research-card__fig {
+  max-width: 100%;
+  width: 100%;
+}
+
+.research-card--wide .research-card__text {
+  flex: none;
+  width: 100%;
+}
+
 .research-fig-placeholder {
   display: flex;
   align-items: center;
