@@ -4,13 +4,19 @@
 
 .resume-block h2 {
   margin-bottom: 0.8em;
+  padding-bottom: 0.4em;
+  border-bottom: 2px solid #2f3539;
+}
+
+html[data-theme="dark"] .resume-block h2 {
+  border-bottom-color: #e6e8ea;
 }
 
 .resume-timeline {
   list-style: none;
   margin: 0;
   padding: 0 0 0 1.15em;
-  border-left: 1px solid var(--global-border-color);
+  border-left: 2px solid var(--global-border-color);
 }
 
 .resume-timeline li {

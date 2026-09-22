@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I'm a final-year PhD student at the [Department of Astronomy, Tsinghua University](https://astro.tsinghua.edu.cn). I'm a theorist aiming to uncover the physics behind galaxy formation and the dark matter haloes that host them. I like to extract useful physical quantities from large datasets, guided by a physical picture.
+I'm currently a PhD student at the [Department of Astronomy, Tsinghua University](https://astro.tsinghua.edu.cn). I'm a theorist aiming to uncover the physics behind galaxy formation and the dark matter haloes that host them. 
 
 [Click here](/research/) to learn more about my research.
 
-In my spare time, I play table tennis and badminton—I have competed in the Beijing Intercollegiate Table Tennis Team Championships—and I enjoy hiking and city walking.
+In my spare time, I play table tennis🏓️ and badminton🏸️, I also enjoy hiking and city walking😄.

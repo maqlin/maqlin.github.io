@@ -1,4 +1,11 @@
 /* Quiet sky wash behind the page. Nav and footer keep their own backgrounds. */
+
+/* Light mode borders are nearly invisible on white; darken them. */
+:root {
+  --global-border-color: #5c656c;
+  --global-dark-border-color: #4a5156;
+}
+
 body {
   background-color: #f4f7fb;
   background-image:
@@ -9,6 +16,11 @@ body {
   background-repeat: no-repeat;
   background-size: cover, auto, auto, auto;
   background-attachment: fixed;
+}
+
+html[data-theme="dark"] {
+  --global-border-color: #c5c8cb;
+  --global-dark-border-color: #d8dbde;
 }
 
 html[data-theme="dark"] body {

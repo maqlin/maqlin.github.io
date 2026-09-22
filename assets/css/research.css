@@ -17,7 +17,7 @@
 
 .page__content .research-section > h2 {
   padding-bottom: 0.4em;
-  border-bottom: 2px solid #4a5156;
+  border-bottom: 2px solid #2f3539;
 }
 
 html[data-theme="dark"] .page__content .research-section > h2 {
@@ -29,7 +29,7 @@ html[data-theme="dark"] .page__content .research-section > h2 {
 }
 
 .research-card {
-  border: 1px solid var(--global-border-color);
+  border: 1.5px solid var(--global-border-color);
   border-radius: 6px;
   padding: 1rem 1.15rem 0.9rem;
   margin: 0 0 1.15rem;
@@ -44,7 +44,7 @@ html[data-theme="dark"] .page__content .research-section > h2 {
 .research-work + .research-work {
   margin-top: 0.85em;
   padding-top: 0.8em;
-  border-top: 1px solid var(--global-border-color);
+  border-top: 1.5px solid var(--global-border-color);
 }
 
 .research-work h4 {
@@ -122,7 +122,7 @@ html[data-theme="dark"] .page__content .research-section > h2 {
   align-items: center;
   justify-content: center;
   min-height: 8.5rem;
-  border: 1px dashed var(--global-border-color);
+  border: 1.5px dashed var(--global-border-color);
   border-radius: 4px;
   color: var(--global-text-color);
   opacity: 0.7;

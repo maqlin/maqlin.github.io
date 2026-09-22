@@ -7,12 +7,11 @@ author_profile: true
 
 <link rel="stylesheet" href="{{ '/assets/css/research.css' | relative_url }}">
 
-<p class="research-lead">I study how galaxies and dark matter haloes assemble inside the cosmic web, and how their clustering constrains cosmology. The work falls into three directions.</p>
+<p class="research-lead">I study how galaxies and dark matter haloes assemble inside the cosmic web. The work falls into two directions.</p>
 
 <ol class="research-toc">
   <li><a href="#galaxies">Galaxy formation and evolution</a></li>
   <li><a href="#haloes">Dark matter haloes within large-scale structure</a></li>
-  <li><a href="#cosmology">Cosmology</a></li>
 </ol>
 
 <section id="galaxies" class="research-section">
@@ -28,8 +27,8 @@ author_profile: true
     </p>
     <div class="research-card__body">
       <div class="research-card__text">
-        <p>Isolated blue ultra-diffuse galaxies in SDSS cluster as strongly as massive groups, which standard subhalo models do not reproduce. In TNG300-Dark the discrepancy depends on the definition of halo spin: spin from bound particles alone fails, while a definition that includes the local unbound environment produces a strong spin bias. Linking stellar surface density to that environmental spin reproduces the observed clustering inside &Lambda;CDM, so the signal is assembly bias rather than new dark-matter physics (Ma, Li, Chen &amp; Mo, accepted by MNRAS).</p>
-        <p class="research-caption">Figure: projected cross-correlation functions of SDSS dwarf subsamples, from ultra-diffuse to compact, compared with the mock catalog. New spin bias can well interpret strong clustering of UDG.</p>
+        <p>Isolated blue ultra-diffuse galaxies in SDSS cluster as strongly as massive groups, a signal that &Lambda;CDM models do not reproduce. Using the TNG300-1-Dark simulation, we find that spin bias depends on how halo spin is defined. We then build a mock catalog that reproduces the strong clustering of UDGs with spin bias under a new definition. Our results suggest that the environment can shape the sizes of dwarf galaxies (Ma, Li, Chen &amp; Mo, accepted by MNRAS).</p>
+        <p class="research-caption">Figure: New spin bias can well interpret strong clustering of UDG.</p>
       </div>
       <div class="research-card__fig">
         <a href="{{ '/images/research/udg-clustering.svg' | relative_url }}" target="_blank" rel="noopener">
@@ -140,32 +139,6 @@ author_profile: true
       </div>
       <div class="research-card__fig">
         <div class="research-fig-placeholder">Figure to be added</div>
-      </div>
-    </div>
-  </article>
-</section>
-
-
-<section id="cosmology" class="research-section">
-  <h2>Cosmology</h2>
-  <p>How the redshift evolution of galaxy clustering can constrain cosmology, and how fast simulations can estimate the systematics of that measurement.</p>
-
-  <article class="research-card">
-    <h3>Systematics of the tomographic Alcock&ndash;Paczynski method</h3>
-    <p class="research-links">
-      <a class="research-btn" href="https://arxiv.org/abs/1908.10595" target="_blank" rel="noopener">arXiv</a>
-      <a class="research-btn" href="https://ui.adsabs.harvard.edu/abs/arXiv:1908.10595/abstract" target="_blank" rel="noopener">ADS</a>
-      <a class="research-btn" href="https://doi.org/10.3847/1538-4357/ab6aa3" target="_blank" rel="noopener">Publisher</a>
-    </p>
-    <div class="research-card__body">
-      <div class="research-card__text">
-        <p>The tomographic Alcock&ndash;Paczynski method separates the geometric AP signal from redshift-space distortions and constrains cosmology with clustering on scales &lesssim; 40 <em>h</em><sup>&minus;1</sup> Mpc (Ma et al. 2020, ApJ). Its main systematic is the redshift evolution of RSD. Comparing BigMultiDark N-body simulations with approximate COLA runs, that evolution is about 5% from <em>z</em> = 0 to 0.5 and about 10% out to <em>z</em> = 1. Errors in the COLA correlation functions are 5&ndash;10 times smaller than this intrinsic systematic, so COLA is accurate enough to estimate it. Changing the halo mass from 2&times;10<sup>12</sup> to 10<sup>14</sup> <em>M</em><sub>&odot;</sub> shifts the statistic by &lesssim; 1.5%.</p>
-        <p class="research-caption">Figure: the redshift-evolution statistic measured in COLA and in BigMultiDark, for the true cosmology.</p>
-      </div>
-      <div class="research-card__fig">
-        <a href="{{ '/images/research/ap-cola.svg' | relative_url }}" target="_blank" rel="noopener">
-          <img src="{{ '/images/research/ap-cola.svg' | relative_url }}" alt="Comparison of the tomographic Alcock-Paczynski statistic in COLA and BigMultiDark">
-        </a>
       </div>
     </div>
   </article>
