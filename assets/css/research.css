@@ -131,6 +131,22 @@ html[data-theme="dark"] .page__content .research-section > h2 {
   width: 100%;
 }
 
+.research-card--stacked > .research-work + .research-work {
+  border-top: none;
+  margin-top: 0;
+  padding-top: 0;
+}
+
+.research-card__fig--mid {
+  max-width: 22rem;
+  width: 100%;
+  margin: 0.85em auto 1.1em;
+}
+
+.research-card__fig--mid .research-caption {
+  margin-top: 0.45em;
+}
+
 .research-fig-placeholder {
   display: flex;
   align-items: center;
