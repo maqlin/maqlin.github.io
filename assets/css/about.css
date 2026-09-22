@@ -1,0 +1,10 @@
+/* About page: larger type, shorter line length */
+.page__content {
+  max-width: 36em;
+  font-size: 1.18em;
+  line-height: 1.75;
+}
+
+.page__content p {
+  margin-bottom: 1.15em;
+}
